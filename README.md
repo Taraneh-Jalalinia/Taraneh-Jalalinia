@@ -1,6 +1,6 @@
 # Hi, I'm Taraneh 👋
 
-**Backend Engineer** (Python · FastAPI · PostgreSQL) — 4+ years building production systems in healthtech, including a full healthcare SaaS backend with a 70+ table database, RAG pipelines with ChromaDB, FHIR R4 patient data integration, and leading a team of 4 backend engineers. These repos show how I approach clean, testable backends outside of work constraints.
+**Backend Engineer** (Python · FastAPI · PostgreSQL) — 4+ years building production systems in healthtech, including a full healthcare SaaS backend with a 70+ table database, RAG pipelines with ChromaDB, FHIR R4 patient data integration, and leading a team of 4+ backend engineers. These repos show how I approach clean, testable backends outside of work constraints.
 
 ---
 
