@@ -40,7 +40,7 @@ At **HolistiCare** I built and maintained systems that can't be open-sourced, in
 - A 70+ table healthcare SaaS backend with RBAC, JWT auth, and multi-tenant architecture
 - A **FHIR R4 patient intake integration** — doctors enter a patient name, the system queries a FHIR server for demographics and medical history, and creates the patient record automatically. Configurable server endpoint so each clinic could point to their own infrastructure.
 - A full RAG pipeline for clinical document search using LlamaIndex, ChromaDB, and embeddings
-- Led a team of 4 backend engineers
+- Led a team of 4+ backend engineers
 
 ---
 
